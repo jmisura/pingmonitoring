@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<networkPoints>			
+			<point>
+				<ipadress>192.168.0.3</ipadress>
+				<pointName>Network Gateway</pointName>
+				<location>Labud Split</location>
+			</point>
+			<point>
+				<ipadress>192.168.0.120</ipadress>
+				<pointName>OrvasAapp1 - Opera i MC</pointName>
+				<location>Labud Split</location>
+			</point>
+			<point>
+				<ipadress>192.168.0.121</ipadress>
+				<pointName>Orvas v1 - Point 2000</pointName>
+				<location>Labud Split</location>
+			</point>
+			<point>
+				<ipadress>192.168.0.133</ipadress>
+				<pointName>DATA</pointName>
+				<location>Labud Split</location>
+			</point>
+			<point>
+				<ipadress>192.168.0.101</ipadress>
+				<pointName>OLD Diventa</pointName>
+				<location>Labud Split</location>
+			</point>
+			<point>
+				<ipadress>xml.orvas.eu</ipadress>
+				<pointName>XML LIVE Server</pointName>
+				<location>Njemačka - Švabo :)</location>
+			</point>
+			<point>
+				<ipadress>192.168.0.110</ipadress>
+				<pointName>OrvasXMLtest</pointName>
+				<location>Labud Split</location>
+			</point>
+			<point>
+				<ipadress>192.168.2.1</ipadress>
+				<pointName>Croatia Getway</pointName>
+				<location>Baska Voda</location>
+			</point>
+			<point>
+				<ipadress>192.168.2.80</ipadress>
+				<pointName>Recepcijsko računalo</pointName>
+				<location>Baska Voda</location>
+			</point>
+			<point>
+				<ipadress>192.168.2.100</ipadress>
+				<pointName>POS server - kasa</pointName>
+				<location>Baska Voda</location>
+			</point>
+			<point>
+				<ipadress>192.168.2.101</ipadress>
+				<pointName>IFC server</pointName>
+				<location>Baska Voda</location>
+			</point>
+			<point>
+				<ipadress>192.168.7.1</ipadress>
+				<pointName>Pharia Getway</pointName>
+				<location>Hvar</location>
+			</point>
+			<point>
+				<ipadress>192.168.7.80</ipadress>
+				<pointName>Recepcijsko računalo</pointName>
+				<location>Hvar</location>
+			</point>
+			<point>
+				<ipadress>192.168.7.100</ipadress>
+				<pointName>POS server - kasa</pointName>
+				<location>Hvar</location>
+			</point>
+			<point>
+				<ipadress>192.168.7.101</ipadress>
+				<pointName>IFC server</pointName>
+				<location>Hvar</location>
+			</point> 
+
+</networkPoints>
